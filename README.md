@@ -1,4 +1,4 @@
-# website-in-quaratine
+# website-in-quarantine
 
 Hi
 
